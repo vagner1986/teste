@@ -1,2 +1,2 @@
 # teste
-Tentando enviar um projeto para o GitHub
+Projeto de site HTML desenvolvido na faculdade

@@ -1,2 +1,2 @@
 # teste
-Projeto de site HTML desenvolvido na faculdade
+Projeto de site HTML desenvolvido na faculdade São Lucas
